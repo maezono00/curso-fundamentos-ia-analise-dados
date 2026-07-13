@@ -1,6 +1,6 @@
 # Fundamentos de IA e Análise de Dados - SENAI
 
-Este repositório armazena o material didático, notas e exercícios desenvolvidos durante o programa **FIC (Formação Inicial e Continuada)** de **Fundamentos de IA e Análise de Dados** do **SENAI**. O objetivo do espaço é organizar o progresso acadêmico e as implementações práticas realizadas nas aulas.
+Este repositório armazena o material didático, anotações e exercícios desenvolvidos durante o programa **FIC (Formação Inicial e Continuada)** de **Fundamentos de IA e Análise de Dados** do **SENAI**. O objetivo do espaço é organizar o progresso acadêmico e as implementações práticas realizadas nas aulas.
 
 ## 📂 Estrutura do Repositório
 
